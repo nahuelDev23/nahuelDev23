@@ -1,16 +1,24 @@
-### Hi there 👋
+- 🔭 Actualmente estoy trabajando en proyectos secretos
+- 🌱 Estoy aprendiendo reactjs, nodejs 
+- 👯 Busco colaborar con cualquier persona del mundo! 
+- 💬 Preguntame como hacer algo y te lo digo y sino lo googleo por vos!
+- 📫 nahuel.dev.23@gmail.com
+- 😄 Experienca en tecnologias
+- * php
+- * mysql
+- * mongodb
+- * javascript
+- * typescript
+- * css / scss
+- * html / pug
+- * SEO
+- * Vuejs
+- * React
+- * Laravel
+- * nodejs
 
-<!--
-**nahuelDev23/nahuelDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+9 años de experencia y amistad. 🖤
 
-Here are some ideas to get you started:
+Gracias por revisar mi perfil y recuerda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+` Se es maestro-alumno todo el tiempo`
