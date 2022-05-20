@@ -4,7 +4,6 @@
 - 💬 Preguntame como hacer algo y te lo digo y sino lo googleo por vos!
 - 📫 nahuel.dev.23@gmail.com
 - 😄 Experienca en tecnologias
--  php
 -  mysql
 -  mongodb
 -  javascript
@@ -12,9 +11,7 @@
 -  css / scss
 -  html / pug
 -  SEO
--  Vuejs
 -  React
--  Laravel
 -  nodejs
 
 9 años de experencia y amistad. 🖤
