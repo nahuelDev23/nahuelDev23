@@ -1,16 +1,12 @@
 - 🔭 Actualmente estoy trabajando en proyectos secretos
-- 🌱 Estoy aprendiendo reactjs, nodejs 
+- 🌱 Estoy aprendiendo reactjs/nextjs, nodejs 
 - 👯 Busco colaborar con cualquier persona del mundo! 
 - 💬 Preguntame como hacer algo y te lo digo y sino lo googleo por vos!
 - 📫 nahuel.dev.23@gmail.com
 - 😄 Experienca en tecnologias
 -  mysql
 -  mongodb
--  javascript
 -  typescript
--  css / scss
--  html / pug
--  SEO
 -  React
 -  nodejs
 
