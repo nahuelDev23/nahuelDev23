@@ -12,8 +12,6 @@ web : [NahueForSale](https://nahueforsale.vercel.app)
 -  React
 -  nodejs
 
-9 años de experencia y amistad. 🖤
-
 Gracias por revisar mi perfil y recuerda
 
 ` Se es maestro-alumno todo el tiempo`
