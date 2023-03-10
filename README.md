@@ -12,6 +12,8 @@ web : [NahueForSale](https://nahueforsale.vercel.app)
 -  React
 -  nodejs
 
+
+- go (2023)
 Gracias por revisar mi perfil y recuerda
 
 ` Se es maestro-alumno todo el tiempo`
