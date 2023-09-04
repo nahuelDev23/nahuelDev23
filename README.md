@@ -2,7 +2,7 @@ web : [NahueForSale](https://nahueforsale.vercel.app)
 
 # 💫 About Me:
 
-web : NahueForSale<br><br>🔭 Actualmente estoy trabajando en proyectos secretos<br><br>🌱 Estoy aprendiendo reactjs/nextjs, nodejs<br><br>👯 Busco colaborar con cualquier persona del mundo!<br><br>💬 Preguntame como hacer algo y te lo digo y sino lo googleo por vos!<br><br>📫 nahuel.dev.23@gmail.com<br><br>😄 Experienca en tecnologias<br><br>mysql<br><br>mongodb<br><br>typescript<br><br>React<br><br>nodejs<br><br>go (2023) Gracias por revisar mi perfil y recuerda
+web : NahueForSale<br><br>🔭 Actualmente estoy trabajando en proyectos freelance <br><br>🌱 Estoy aprendiendo reactjs/nextjs, nodejs<br><br>👯 Busco colaborar con cualquier persona del mundo!<br><br>💬 Preguntame como hacer algo y te lo digo y sino lo googleo por vos!<br><br>📫 nahuel.dev.23@gmail.com<br><br>😄 Experienca en tecnologias<br><br>mysql<br><br>mongodb<br><br>typescript<br><br>React<br><br>nodejs<br><br>go (2023) Gracias por revisar mi perfil y recuerda
 
 
 # 💻 Tech Stack:
