@@ -1,8 +1,12 @@
 web : [NahueForSale](https://nahueforsale.vercel.app)
 
-# 💫 About Me:
-
-🔭 Actualmente estoy trabajando en proyectos freelance <br><br>🌱 Estoy aprendiendo Go<br><br>👯 Busco colaborar con cualquier persona del mundo!<br><br>💬 Preguntame como hacer algo y te lo digo y sino lo googleo por vos!<br><br>📫 nahuel.dev.23@gmail.com<br><br>😄 <br> Gracias por revisar mi perfil y recuerda <br>
+# 💫Indie software developer:
+<br><br>
+🔥 Dame un diseño y hago lo que quiero
+<br><br>
+📫 nahuel.dev.23@gmail.com<br><br>
+😄 Gracias por revisar mi perfil y recuerda
+<br><br>
 Se es maestro-alumno todo el tiempo
 
 
